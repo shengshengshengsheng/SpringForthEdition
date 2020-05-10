@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_01/knight" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_02/stereo-autoconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_02/stereo-javaconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_02/stereo-mixedconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_02/stereo-xmlconfig" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_03/conditional" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_03/externals" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_03/profiles" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_03/scopedbeans" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_05/Spittr" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_08/SpringPizza" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_10/jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_11/hibernate4" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_11/jpa-hibernate" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_11/jpa-springdata" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_12/mongo" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_12/neo4j" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_12/redis" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_13/caching" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_14/methodsecurity" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_16/spitter-api-content-negotiation" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_16/spitter-api-message-converters" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_17/amqp" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_17/jms" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_18/STOMP" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_18/STOMPUser" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_18/WebSocket" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter_19/mail" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter_17/amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter_21/contacts/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

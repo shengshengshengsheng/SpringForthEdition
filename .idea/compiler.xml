@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="jdbc.main" target="1.8" />
+      <module name="jdbc.test" target="1.8" />
+      <module name="mail.main" target="1.8" />
+      <module name="mail.test" target="1.8" />
+      <module name="methodsecurity.main" target="1.8" />
+      <module name="methodsecurity.test" target="1.8" />
+      <module name="scopedbeans.main" target="1.8" />
+      <module name="scopedbeans.test" target="1.8" />
+      <module name="Spittr-JSP" target="1.8" />
+      <module name="Spittr-JSP.main" target="1.8" />
+      <module name="Spittr-JSP.test" target="1.8" />
+      <module name="Spittr-Thymeleaf" target="1.8" />
+      <module name="Spittr-Thymeleaf.main" target="1.8" />
+      <module name="Spittr-Thymeleaf.test" target="1.8" />
+      <module name="Spittr.main" target="1.8" />
+      <module name="Spittr.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
